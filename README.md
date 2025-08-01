@@ -34,3 +34,13 @@ The purpose of this project was **to learn advanced deep learning concepts by st
 - ✅ Ready-to-train and experiment
 
 ---
+<p align="center">
+  <img src="plots/attention_visual.png" width="500"/>
+  <br>
+  <i>Attention on a sample Sequence I love Transformer so much</i>
+</p>
+<p align="center">
+  <img src="plots/transformer_perplexity_curve.png" width="500"/>
+  <br>
+  <i>Training Loss over 5 Epochs</i>
+</p>
